@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/satyam01x/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/satyam01x/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
