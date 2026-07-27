@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/satyam01x/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0383-ransom-note](https://github.com/satyam01x/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/satyam01x/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [3110-score-of-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
