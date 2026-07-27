@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/satyam01x/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam01x/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/satyam01x/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam01x/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/satyam01x/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
