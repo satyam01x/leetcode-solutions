@@ -35,6 +35,7 @@
 | [0344-reverse-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/satyam01x/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/satyam01x/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0392-is-subsequence](https://github.com/satyam01x/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/satyam01x/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
