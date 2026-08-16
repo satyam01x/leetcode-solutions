@@ -57,6 +57,7 @@
 | [0392-is-subsequence](https://github.com/satyam01x/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/satyam01x/leetcode-solutions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/satyam01x/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +113,12 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
