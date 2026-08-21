@@ -1,19 +1,20 @@
-import java.util.HashSet;
+import java.util.HashMap;
 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 
-        HashSet<Integer> set = new HashSet<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int i = 0; i < nums.length; i++){
-            if (set.contains(nums[i])){
+
+            if(map.containsKey(nums[i])){
                 return true;
             }
-        
+            else{
+                map.put(nums[i], 1);
+            }
+        }
 
-        set.add(nums[i]);
+        return false;
     }
-
-    return false;
-}
 }
