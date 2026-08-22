@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam01x/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satyam01x/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/satyam01x/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satyam01x/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/satyam01x/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
