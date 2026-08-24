@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/satyam01x/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam01x/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/satyam01x/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
