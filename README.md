@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyam01x/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam01x/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -113,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
@@ -152,4 +154,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
