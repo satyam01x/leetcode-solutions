@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/satyam01x/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satyam01x/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/satyam01x/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | [0647-palindromic-substrings](https://github.com/satyam01x/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/satyam01x/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/satyam01x/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
