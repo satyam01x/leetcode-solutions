@@ -30,6 +30,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyam01x/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3875-construct-uniform-parity-array-i](https://github.com/satyam01x/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/satyam01x/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
