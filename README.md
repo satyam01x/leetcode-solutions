@@ -154,6 +154,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/satyam01x/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam01x/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
