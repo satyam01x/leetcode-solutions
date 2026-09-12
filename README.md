@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam01x/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satyam01x/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam01x/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/satyam01x/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam01x/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam01x/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -188,6 +190,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam01x/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
@@ -205,5 +208,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/satyam01x/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
