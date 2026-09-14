@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/satyam01x/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/satyam01x/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -214,4 +216,8 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/satyam01x/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
