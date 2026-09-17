@@ -29,6 +29,7 @@
 | [0414-third-maximum-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/satyam01x/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/satyam01x/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/satyam01x/leetcode-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam01x/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satyam01x/leetcode-solutions/tree/master/0704-binary-search) |
@@ -202,6 +203,7 @@
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/satyam01x/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 ## Counting Sort
 |  |
 | ------- |
@@ -220,4 +222,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/satyam01x/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
