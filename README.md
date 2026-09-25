@@ -37,6 +37,7 @@
 | [0704-binary-search](https://github.com/satyam01x/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/satyam01x/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/satyam01x/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0896-monotonic-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/satyam01x/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam01x/leetcode-solutions/tree/master/1051-height-checker) |
