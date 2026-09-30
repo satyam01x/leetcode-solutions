@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/satyam01x/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/satyam01x/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/satyam01x/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyam01x/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/satyam01x/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam01x/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satyam01x/leetcode-solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/satyam01x/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
