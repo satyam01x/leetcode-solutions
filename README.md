@@ -47,6 +47,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyam01x/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1572-matrix-diagonal-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam01x/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam01x/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -221,6 +222,7 @@
 | [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/satyam01x/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [1572-matrix-diagonal-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Counting Sort
 |  |
 | ------- |
