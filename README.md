@@ -117,6 +117,7 @@
 | [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/satyam01x/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/satyam01x/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/satyam01x/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
