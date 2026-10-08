@@ -112,6 +112,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/satyam01x/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/satyam01x/leetcode-solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/satyam01x/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/satyam01x/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -175,6 +176,7 @@
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam01x/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/satyam01x/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/satyam01x/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
