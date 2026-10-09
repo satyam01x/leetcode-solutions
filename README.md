@@ -34,6 +34,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/satyam01x/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/satyam01x/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/satyam01x/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/satyam01x/leetcode-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam01x/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satyam01x/leetcode-solutions/tree/master/0704-binary-search) |
@@ -67,6 +68,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/satyam01x/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/satyam01x/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyam01x/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/satyam01x/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/satyam01x/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
