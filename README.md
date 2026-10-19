@@ -51,6 +51,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyam01x/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyam01x/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam01x/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam01x/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -156,6 +157,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam01x/leetcode-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyam01x/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/satyam01x/leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyam01x/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
