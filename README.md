@@ -185,6 +185,7 @@
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/satyam01x/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -276,4 +277,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyam01x/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/satyam01x/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
