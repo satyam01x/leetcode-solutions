@@ -59,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/satyam01x/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/satyam01x/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam01x/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -86,6 +87,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam01x/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/satyam01x/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam01x/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -184,6 +186,7 @@
 | [0048-rotate-image](https://github.com/satyam01x/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satyam01x/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satyam01x/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/satyam01x/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0415-add-strings) |
@@ -281,4 +284,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/satyam01x/leetcode-solutions/tree/master/0326-power-of-three) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
