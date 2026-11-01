@@ -51,6 +51,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/satyam01x/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satyam01x/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/satyam01x/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam01x/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam01x/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam01x/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -260,6 +261,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/satyam01x/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam01x/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/satyam01x/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/satyam01x/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
