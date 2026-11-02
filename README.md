@@ -191,6 +191,7 @@
 | [0268-missing-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/satyam01x/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/satyam01x/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satyam01x/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam01x/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam01x/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
